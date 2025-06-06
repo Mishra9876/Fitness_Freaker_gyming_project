@@ -1,5 +1,6 @@
 # Fitness_Freaker_gyming_project
 (During Salesforce Training)
+
 This Gyming Website is a modern fitness management solution developed on the Salesforce platform. It is designed to streamline gym operations, improve member engagement, and provide real-time access to fitness services through a secure and scalable cloud-based application.
 Key Features:
 Member Management: Easily register, track, and manage member profiles, subscriptions, and attendance.
